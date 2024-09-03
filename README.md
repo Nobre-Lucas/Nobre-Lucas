@@ -5,8 +5,8 @@
 Sou um **Cientista de Dados** e estudante de **Engenharia de Dados**, com formação em **Ciência da Computação** e uma forte paixão por resolver problemas complexos usando **dados**. Tenho vasta experiência em manipulação, análise e visualização de dados, buscando sempre desenvolver soluções eficientes para desafios do mundo real.
 
 ### 🛠️ Tecnologias e Ferramentas:
-- **Linguagens**: Python, SQL
-- **Ferramentas de BI**: Power BI, IBM Cognos
+- **Linguagens**: Python, Java e SQL
+- **Ferramentas de BI**: Power BI e IBM Cognos
 - **Data Science**: Pandas, NumPy, Scikit-Learn, Matplotlib
 - **Data Engineering**: ETL, Data Warehousing, Apache Spark, Airflow
 
