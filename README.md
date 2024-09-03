@@ -19,19 +19,3 @@ Gosto de trabalhar em projetos que impactam diretamente a vida das pessoas, busc
 - [E-mail](mailto:lucasbnobre18@gmail.com)
 
 ---
-
-<style>
-body {
-    background-color: #0d1117;
-    color: #c9d1d9;
-}
-
-h1, h2, h3 {
-    color: #58a6ff;
-}
-
-a {
-    color: #1f6feb;
-}
-
-</style>
