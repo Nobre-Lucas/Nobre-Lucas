@@ -15,8 +15,8 @@ Gosto de trabalhar em projetos que impactam diretamente a vida das pessoas, busc
 ---
 
 ### Vamos nos conectar! 🌍
-- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/lucas-nobre-barbosa/)
-- **E-mail**: [Meu E-mail](mailto:lucasbnobre18@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lucas-nobre-barbosa/)
+- [E-mail](mailto:lucasbnobre18@gmail.com)
 
 ---
 
