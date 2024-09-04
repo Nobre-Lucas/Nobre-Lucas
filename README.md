@@ -11,7 +11,7 @@ Sou um **Cientista de Dados** e estudante de **Engenharia de Dados**, com forma�
 - **Data Engineering**: ETL, Data Warehousing, Apache Spark, Airflow
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nobre-Lucas&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nobre-Lucas)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nobre-Lucas&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💡 O que me motiva?
 Gosto de trabalhar em projetos que impactam diretamente a vida das pessoas, buscando soluções inovadoras na interseção entre **dados** e **tecnologia**. 
