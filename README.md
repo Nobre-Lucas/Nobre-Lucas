@@ -10,6 +10,7 @@ Sou um **Cientista de Dados** e estudante de **Engenharia de Dados**, com formaÃ
 - **Data Science**: Pandas, NumPy, Scikit-Learn, Matplotlib
 - **Data Engineering**: ETL, Data Warehousing, Apache Spark, Airflow
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nobre-Lucas)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nobre-Lucas)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ðŸ’¡ O que me motiva?
