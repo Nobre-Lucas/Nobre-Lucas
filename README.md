@@ -2,13 +2,7 @@
 
 ### Olá! 👋 Seja bem-vindo ao meu GitHub!
 
-Sou um **Cientista de Dados** e estudante de **Engenharia de Dados**, com formação em **Ciência da Computação** e uma forte paixão por resolver problemas complexos usando **dados**. Tenho vasta experiência em manipulação, análise e visualização de dados, buscando sempre desenvolver soluções eficientes para desafios do mundo real.
-
-### 🛠️ Tecnologias e Ferramentas:
-- **Linguagens**: Python, Java e SQL
-- **Ferramentas de BI**: Power BI e IBM Cognos
-- **Data Science**: Pandas, NumPy, Scikit-Learn, Matplotlib
-- **Data Engineering**: ETL, Data Warehousing, Apache Spark, Airflow
+Sou um **Cientista de Dados** e estudante de **Engenharia de IA**, com formação em **Ciência da Computação** e uma forte paixão por resolver problemas complexos usando **dados**. Tenho vasta experiência em manipulação, análise e visualização de dados, buscando sempre desenvolver soluções eficientes para desafios do mundo real.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nobre-Lucas&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nobre-Lucas&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
